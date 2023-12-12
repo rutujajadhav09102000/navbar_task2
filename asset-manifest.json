@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/rutujajadhav09102000/navbar_task2.git/static/css/main.0e8d9ad8.css",
+    "main.js": "/rutujajadhav09102000/navbar_task2.git/static/js/main.86d08bf7.js",
+    "static/js/787.3971dda8.chunk.js": "/rutujajadhav09102000/navbar_task2.git/static/js/787.3971dda8.chunk.js",
+    "index.html": "/rutujajadhav09102000/navbar_task2.git/index.html",
+    "main.0e8d9ad8.css.map": "/rutujajadhav09102000/navbar_task2.git/static/css/main.0e8d9ad8.css.map",
+    "main.86d08bf7.js.map": "/rutujajadhav09102000/navbar_task2.git/static/js/main.86d08bf7.js.map",
+    "787.3971dda8.chunk.js.map": "/rutujajadhav09102000/navbar_task2.git/static/js/787.3971dda8.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0e8d9ad8.css",
+    "static/js/main.86d08bf7.js"
+  ]
+}
